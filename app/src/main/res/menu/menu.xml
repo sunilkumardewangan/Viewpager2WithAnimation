@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/simple"
+        android:title="Simple Transformation" />
+
+    <item
+        android:id="@+id/depth_transformation"
+        android:title="Depth Transformation" />
+
+    <item
+        android:id="@+id/zoomout_transformation"
+        android:title="Zoomout Transformation" />
+
+    <item
+        android:id="@+id/clockspin_transformation"
+        android:title="Clock Spin Transformation" />
+
+    <item
+        android:id="@+id/anticlockspin_transformation"
+        android:title="Anticlock Spin Transformation" />
+
+    <item
+        android:id="@+id/fidgetspin_transformation"
+        android:title="Fidget Spin Transformation" />
+
+    <item
+        android:id="@+id/vertical_flip_transformation"
+        android:title="Vertical Flip Transformation" />
+
+
+    <item
+        android:id="@+id/horizontal_flip_transformation"
+        android:title="Horizontal Flip Transformation" />
+
+    <item
+        android:id="@+id/pop_transformation"
+        android:title="Pop Transformation" />
+
+    <item
+        android:id="@+id/fade_out_transformation"
+        android:title="Fade Out Transformation" />
+
+    <item
+        android:id="@+id/cube_out_transformation"
+        android:title="Cube Out Transformation" />
+
+    <item
+        android:id="@+id/cube_in_transformation"
+        android:title="CubeIn Transformation" />
+
+    <item
+        android:id="@+id/cube_out_scaling_transformation"
+        android:title="Cube Out Scaling Transformation" />
+
+
+    <item
+        android:id="@+id/cube_in_scaling_transformation"
+        android:title="Cube In Scaling Transformation" />
+
+    <item
+        android:id="@+id/cube_out_depth_transformation"
+        android:title="Cube Out Depth Transformation" />
+
+    <item
+        android:id="@+id/cube_in_depth_transformation"
+        android:title="Cube In Depth Transformation" />
+
+    <item
+        android:id="@+id/hing_scaling_transformation"
+        android:title="Hing Scaling Transformation" />
+
+
+    <item
+        android:id="@+id/gate_transformation"
+        android:title="Gate Transformation" />
+
+    <item
+        android:id="@+id/toss_transformation"
+        android:title="Toss Transformation" />
+
+    <item
+        android:id="@+id/fan_transformation"
+        android:title="Fan Transformation" />
+
+    <item
+        android:id="@+id/spinner_transformation"
+        android:title="Spinner Transformation" />
+
+    <item
+        android:id="@+id/vertical_shut_transformation"
+        android:title="Vertical Shut Transformation" />
+
+    <item
+        android:id="@+id/slow_motion_transformation"
+        android:title="Slow Motion Transformation" />
+
+
+</menu>

@@ -48,7 +48,11 @@ public class MainActivity extends AppCompatActivity {
         List<String> list = new ArrayList<>();
         list.add("First Screen");
         list.add("Second Screen");
+
         list.add("Third Screen");
+
+
+
         list.add("Fourth Screen");
 
         //set adapter in viewpager2
